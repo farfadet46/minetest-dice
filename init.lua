@@ -17,12 +17,12 @@ minetest.register_chatcommand("dice_max", {
 	end
 	
 })
-
+--[[
 minetest.register_chatcommand("triche", {
 		minetest.chat_send_all( "/me a voullu tricher !")
 	end
 })
-
+]]--
 minetest.register_node("dice:blocos_1", {
 	description = "Dice_1",
 	drawtype = "nodebox",
