@@ -13,7 +13,7 @@ minetest.register_chatcommand("dice_max", {
 			return
 		else
 		maximus = param
-		minetest.chat_send_player(name, "La valeur maximum du dé est maintenant de : " ..param )
+		minetest.chat_send_player(name, "La valeur maximum du DE est maintenant de : " ..param )
 		end
 	end
 	
