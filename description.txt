@@ -3,6 +3,6 @@ Simple dice for little games ;)
 you can change the max value with commands
 
 like that : /dice_max 6
-for get a number from 1 to 6
+to get a number from 1 to 6
 
-the default maximum is 10
+the default maximum is 10 (due to texture count)
