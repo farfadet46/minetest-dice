@@ -1,0 +1,7 @@
+# textdomain: dice
+** Incorrect settings - Please set a maximum value for the DICE. It can't be upper than 10.**.=** Paramètres incorrects - Veuillez renseigner la valeur maximum du DÉ. Elle ne peut pas depasser 10.**
+** Reminder, the value of the DICE is @1 **=** Rappel de la valeur du DÉ : @1 **
+The maximum value of the DICE is now : @1=La valeur maximum du DE est maintenant : @1
+Dice=Dé
+The DICE did : @1=Le DÉ a fait : @1
+Dice_@1=Dé_@1

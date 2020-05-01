@@ -1,4 +1,6 @@
 # dice
-test de création d'un mod pour MINETEST.
+Create a mod that add a simple dice on Minetest.
 
-il s'agit d'un dé qui tire un nombre aléatoire (le nombre max du dé est parametrable avec une ligne de commande)
+## Commands
+`/dice_max X`
+Set the maximum value of the dice. With X within [1;10].
